@@ -1,0 +1,119 @@
+.main
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p
+{
+    height: 300px;
+    width: 500px;
+    border: 1px solid black;
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.YDeywTtI-y7xwvHnjCNzpQHaE8&pid=Api&P=0&h=180");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px 5px  black;
+}
+.logo
+{
+    height: 35%;
+    width: 40%;
+    position: relative;
+}
+.logo img
+{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 320px;
+    bottom: 48px;
+}
+.chip
+{
+    height: 17%;
+    width: 17%;
+    position: relative;
+}
+.chip img
+{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 30px;
+    top: 0px;
+}
+.simple
+{
+    font-style: italic;
+    color: gainsboro;
+    font-size: 25px;
+    position: absolute;
+    left: 340px;
+    bottom: 165px;
+}
+.ad
+{
+    font-family: sans-serif;
+    color: rgba(220, 220, 220, 0.86);
+    font-size: 10px;
+    position: absolute;
+    left: 340px;
+    bottom: 155px;
+    font-style: italic;
+}
+.num
+{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    left: 110px;
+    top: 160px;
+    font-family: monospace;
+}
+.date1
+{
+    color: gainsboro;
+    font-size: 10px;
+    position: absolute;
+    left: 190px;
+    top: 200px;
+    width: 50px;
+}
+.date2
+{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    left: 220px;
+    top: 195px;
+}
+.name
+{
+
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left: 40px;
+    top: 250px;
+}
+.visa
+{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    left: 390px;
+    top: 225px;
+    font-style: bold;
+}
+.plat
+{
+    color: gainsboro;
+    font-size: 15px;
+    position: absolute;
+    left: 430px;
+    top: 265px;
+}
